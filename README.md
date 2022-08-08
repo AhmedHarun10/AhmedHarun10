@@ -1,7 +1,6 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Harun</h1>
 <h3 align="center">An ambitious software engineer who has a passion for coding</h3>
-<img align = "right" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="this slowpoke moves"  size="250" />
 - 🔭 I’m currently working on **BlockVote**
 
 - 🌱 I’m currently learning **React Native, Solidity,**
