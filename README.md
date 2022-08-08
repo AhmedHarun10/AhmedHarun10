@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg)
 <h1 align="center">Hi 👋, I'm Ahmed Harun</h1>
 <h3 align="center">An ambitious software engineer who has a passion for coding</h3>
-- 🔭 I’m currently working on **BlockVote**
+- 🔭 I’m currently working on **BlockVote** a voting application that harnesses the power of blockchain technology and is designed for government and commerical entities
 
 - 🌱 I’m currently learning **React Native, Solidity,**
 
